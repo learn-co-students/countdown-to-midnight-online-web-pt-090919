@@ -1,4 +1,4 @@
-def countdown
+def countdown(10)
 number = 10 
 while number >= 0
 puts "#{number} SECONDS"
